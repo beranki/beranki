@@ -5,3 +5,7 @@
 - Java
 - C/C++
 - HTML/CSS/JS
+- React
+- Flask
+- Tensorflow/Pytorch
+- 
