@@ -2,7 +2,7 @@
 
 ## Skills:
 - Languages: 
-  - Artificial Intelligence with Python (Tensorflow, Keras, Sklearn, OpenCV, Numpy, Matplotlib/Seaborn with SQL and Python)
+  - Artificial Intelligence with Python (Tensorflow, Sklearn, OpenCV, Numpy)
   - C++
   - Java
   - HTML5/CSS3/JavaScript
@@ -13,4 +13,4 @@
 - Other: 
   - Data Science / Analysis
   - Database Design
-  - Data Structures and Algorithms (APCS Level)
+  - Data Structures and Algorithms (USACO Silver Level)
